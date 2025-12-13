@@ -5,9 +5,7 @@
 # Hi 👋, I'm Anıl Cemre Saçak
 ### I am a Mobile📱 App and Web Developer 🌐
 
-<img src="https://komarev.com/ghpvc/?username=Ghostedb&label=Profile views&color=0e75b6&style=flat" alt="Ghostedb" />
-
-<br/><br/>
+<br/>
 
 - 🌱 I'm currently learning **Java, HTML, CSS, JavaScript and Adobe After Effects**
 - 📫 How to reach me: **[anilcemresacak01@gmail.com](mailto:anilcemresacak01@gmail.com)**
@@ -44,5 +42,9 @@
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghostedb&" alt="Ghostedb Streak" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ghostedb&label=Profile views&color=0e75b6&style=flat" alt="Ghostedb" />
 
 </div>
