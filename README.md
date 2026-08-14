@@ -47,16 +47,22 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ghostedb&show_icons=true&theme=react&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostedb&layout=compact&theme=react&border_radius=10" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Ghostedb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="GitHub İstatistikleri"
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostedb&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="En Çok Kullanılan Diller"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ghostedb&theme=react&border_radius=10" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Ghostedb&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak İstatistikleri"
+  />
 </p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</div>
