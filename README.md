@@ -1,27 +1,62 @@
- ![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQEYIafYBskNKw/profile-displaybackgroundimage-shrink_350_1400/B4EZny9D8YGUAY-/0/1760717729867?e=1766620800&v=beta&t=e349nG5o-hRpCY8HpJEJO_9FCths5I19UHPyW3AE7GI)
-# Hi 👋, I'm Anıl Cemre Saçak
+<div align="center">
 
-### I am a Mobile📱 App and Web Developer 🌐
+![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQEYIafYBskNKw/profile-displaybackgroundimage-shrink_350_1400/B4EZny9D8YGUAY-/0/1760717729867?e=1766620800&v=beta&t=e349nG5o-hRpCY8HpJEJO_9FCths5I19UHPyW3AE7GI)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ghostedb&label=Profile views&color=0e75b6&style=flat" alt="Ghostedb" /> </p>
+# 👋 Merhaba, Ben Anıl Cemre Saçak
+### 🚀 Mobile & Web Developer | UI/UX Enthusiast
 
-- 🌱 I'm currently learning **Java,HTML,CSS,Java Scripts And Adobe Affter Effect**
-
-- 📫 How to reach me **anilcemresacak01@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Ghostedb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ghostedb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anilcemresck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilcemresck" height="30" width="40" /></a>
-<a href="https://instagram.com/anl.cemre.sck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anl.cemre.sck" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ghostedb&label=Profil%20Görüntüleme&color=4169e1&style=flat-square" alt="Ghostedb" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/xd" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40"/> </a></p>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anilcemresck)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anl.cemre.sck)
+[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilcemresacak01@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghostedb&show_icons=true&locale=en&layout=compact" alt="Ghostedb" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ghostedb&show_icons=true&locale=en" alt="Ghostedb" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ghostedb&" alt="Ghostedb" /></p>
+### 👨‍💻 Hakkımda
 
+- 🌱 Şu anda **Java, Mobile Development ve Web Teknolojileri** üzerine derinleşiyorum.
+- 🎨 Tasarım tarafında **Adobe After Effects, Photoshop ve XD** ile projelerimi görselleştiriyorum.
+- 💻 Modern arayüzler ve etkileşimli mobil uygulamalar geliştirmekten keyif alıyorum.
+- 🎯 Hedefim: Kullanıcı deneyimini ön planda tutan yüksek performanslı ürünler inşa etmek.
+
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+#### **Yazılım Geliştirme**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,cs,js,php,py,html,css,nodejs,mysql" />
+  </a>
+</p>
+
+#### **Tasarım & Prodüksiyon**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,ps,xd" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ghostedb&show_icons=true&theme=react&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostedb&layout=compact&theme=react&border_radius=10" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ghostedb&theme=react&border_radius=10" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</div>
